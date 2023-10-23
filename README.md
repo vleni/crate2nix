@@ -34,6 +34,10 @@ A stub template is provided:
 ``` nix
 nix flake init --template github:nix-community/crate2nix
 ```
+The executable can be run by
+``` nix
+nix run
+```
 
 ### Specifying the version of Rust
 
